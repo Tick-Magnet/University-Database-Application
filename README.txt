@@ -28,7 +28,7 @@ You should now have a fully operational database on the back end!
 The next step should be easy. Open up the java files and run them accordingly. Take the JDBC.java file and move it to either Eclipse or any other Java workspace.
 To run the application simply run the file DatabaseApplication.java in any way that you are accustomed to.
 
-*IMPORTANT NOTE* If these steps fail in any way please contact the author for more input.
+*IMPORTANT NOTE* If these steps fail notify the author.
 
 STRUCTURE
 ---------
