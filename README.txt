@@ -51,5 +51,5 @@ If you wish to skip the log-in process you can run student_home.java, faculty_ho
 
 CREDITS
 -------
-Constructed by: Jacob Bowers
+Developed by: Jacob Bowers
 I can be reached at: jacob.bowers@siu.edu
